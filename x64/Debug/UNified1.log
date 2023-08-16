@@ -1,0 +1,25 @@
+﻿  Absences.cpp
+  FinalSetAbsences.cpp
+  FinalSetGrades.cpp
+  Finances.cpp
+  Grades.cpp
+C:\Users\Blu-Ray\OneDrive\Documents\Inshallah_UNIfied_Final[1]\Inshallah UNIfied Final\UNified1\UNified1\Grades.h(469,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MainTeacher.cpp
+  MyForm.cpp
+C:\Users\Blu-Ray\OneDrive\Documents\Inshallah_UNIfied_Final[1]\Inshallah UNIfied Final\UNified1\UNified1\Grades.h(469,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Blu-Ray\OneDrive\Documents\Inshallah_UNIfied_Final[1]\Inshallah UNIfied Final\UNified1\UNified1\MyForm.cpp(11,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm1.cpp
+  MyForm2.cpp
+  MyForm3.cpp
+  MyForm4.cpp
+  MyForm5.cpp
+  SetAbsences.cpp
+  SetGrades.cpp
+  Student.cpp
+C:\Users\Blu-Ray\OneDrive\Documents\Inshallah_UNIfied_Final[1]\Inshallah UNIfied Final\UNified1\UNified1\Grades.h(469,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  StudentChoice.cpp
+C:\Users\Blu-Ray\OneDrive\Documents\Inshallah_UNIfied_Final[1]\Inshallah UNIfied Final\UNified1\UNified1\Grades.h(469,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Generating Code...
+  Absences.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  UNified1.vcxproj -> C:\Users\Blu-Ray\OneDrive\Documents\Inshallah_UNIfied_Final[1]\Inshallah UNIfied Final\UNified1\x64\Debug\UNified1.exe
